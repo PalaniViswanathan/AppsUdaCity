@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="tlink_porf_main_button_background_color">#c46228</color>
+    <color name="tlink_style_background">#95b6ff</color>
 </resources>

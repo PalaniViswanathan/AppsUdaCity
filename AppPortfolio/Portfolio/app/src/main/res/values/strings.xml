@@ -25,5 +25,6 @@
     <string name="label_selctedmessageprefix">This button will launch my </string>
     <string name="label_space"> </string>
     <string name="label_appescalmation">app!</string>
+
     <string name="label_mynanodegree">My Nanodegree Apps!</string>
 </resources>
